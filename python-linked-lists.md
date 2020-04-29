@@ -18,7 +18,7 @@ Rather than fixed length spaces in memory, the linked list uses *nodes* to wrap 
 The node contains the pointer to the next element in the list.
 
 ## Efficieny of various operations
-
+```
 +----------------------------------+--------------------+--------------------+
 |          Operation               | Singly-linked List | Doubly-linked List |
 +----------------------------------+--------------------+--------------------+
@@ -28,7 +28,7 @@ The node contains the pointer to the next element in the list.
 |Add last element                  |        O(1)        |       O(1)         |
 |Remove last element               |        O(n)        |       O(1)         |
 +----------------------------------+--------------------+--------------------+
-
+```
 ## Code: linked-list.py
 
 
