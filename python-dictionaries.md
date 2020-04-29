@@ -4,17 +4,17 @@ tags: data structures, python, dictionaries
 
 ## What is a Dictionary?
 
-A dictionary is basically a mapping from a string or integer to a value or an object
-This is known as a key-value pair
-The key maps directly to the value, but not the other way around
-Dictionary has no ordering
+A dictionary is basically a mapping from a string or integer to a value or an object.
+This is known as a key-value pair.
+The key maps directly to the value, but not the other way around.
+Dictionary has no ordering.
 
 ## Dictionaries vs Lists
 
 In a list, an index is provided and an object is returned. 
 An array, or list is a solid chunk in memory.
 A dictionary on the otherhand is a hashmap, or a function.
-It takes an input to find where to get the output
+It takes an input to find where to get the output.
 
 
 ## Code
