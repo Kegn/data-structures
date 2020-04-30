@@ -2,13 +2,13 @@
 
 tags: data structures, python, linked-lists
 
-linked lists are a way to store data in an ordered manner
+linked lists are a way to store data in an ordered manner.
 
 ## Comparison to array
 
-An array is a fixed address chunk in memory
-the chunk is then subdivided that can be accesed via indicies.
-The benefit is that we can access the indicies in constant time O(1)
+An array is a fixed address chunk in memory.
+The chunk is then subdivided that can be accesed via indicies.
+The benefit is that we can access the indicies in constant time O(1).
 We can access index 1 and index 100000 in the same time.
 The reason for this is that we only calculate a single memory address, then tell the computer to pull the data from that location for any spot in the array.
 
