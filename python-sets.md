@@ -126,3 +126,5 @@ A membership test on a set is O(1)
 
 The reason a list is O(n) for membership tests is because we have to traverse the whole list to test.
 The reason a set is O(1) is because it is built on a hash table implementation where there are no 'keys', just values and index lookup on hash-tables is contant time.
+
+source: Corey Schafer | youtube: Python Tutorial: Sets = Set Methods and Operations to Solve Common Problems |  https://www.youtube.com/watch?v=r3R3h5ly_8g
