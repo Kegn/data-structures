@@ -6,7 +6,7 @@ tags: data structures, python, class
 It is recommended to Uppercase the first letter of your classnames.
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/python3
 
 class User:
     pass
