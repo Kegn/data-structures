@@ -3,28 +3,27 @@
 tags: data structures, python, trees
 
 Binary trees are a tree data structure where each node has at most two children:
-    - left node
-    - right node
-
+ - left node
+ - right node
 The leaves are the nodes at the very bottom of the tree
 The depth is equal to the height of the tree
 
 There are multiple types of binary trees:
-    - Complete binary tree
-      - complete at every level except possibly the last
-    - Full binary tree
-      - sometimes called a proper or plane binary tree
-      - every node has either zero or two children
+ - Complete binary tree
+  - complete at every level except possibly the last
+ - Full binary tree
+  - sometimes called a proper or plane binary tree
+  - every node has either zero or two children
 
 ## Traversing Binary Trees
 
 Traversal is the process of visiting or updating each node in a tree exactly once.
 Trees may be traversed in multiple ways:
-    - Depth-first
-      - in-order
-      - pre-order
-      - post-order
-    - Breadth-first
+ - Depth-first
+  - in-order
+  - pre-order
+  - post-order
+ - Breadth-first
 
 **Pre-Order Traversal**
  - start at root
