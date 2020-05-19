@@ -5,6 +5,7 @@ tags: data structures, python, trees
 Binary trees are a tree data structure where each node has at most two children:
  - left node
  - right node
+
 The leaves are the nodes at the very bottom of the tree
 The depth is equal to the height of the tree
 
